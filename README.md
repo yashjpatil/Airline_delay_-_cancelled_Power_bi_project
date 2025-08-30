@@ -1,7 +1,7 @@
 
 # Flight Delay & Cancellation Dashboard (2019–2023)
 
-This project provides a **Power BI dashboard** built on the (https://www.kaggle.com/).  (https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023)
+This project provides a **Power BI dashboard** built on the   (https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023)
 It offers **data-driven insights** into flight delays, cancellations, and performance trends across major U.S. airlines over five years.  
 
 ---
